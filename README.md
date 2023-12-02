@@ -1,4 +1,4 @@
-# 인물 데이터 분석 경진대회
+# 인물 데이터 분석 공모전
 ### 우수상
 
 ![2023425468fWV2SlIdjr_editor_image](https://github.com/ESGcompetition/network-analysis/assets/60167644/6aa5c0c4-1e53-479c-9b59-92ed8e6d9c46)
